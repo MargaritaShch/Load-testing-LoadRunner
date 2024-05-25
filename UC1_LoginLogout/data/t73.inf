@@ -1,0 +1,11 @@
+[t73]
+FileName1=t73_0ba4590a841ba960259ff23aa6c48357.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/smartlistshareddata/default/index.json/0ba4590a841ba960259ff23aa6c48357.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_73.xml
+RequestHeaderFile=t73_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t73_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

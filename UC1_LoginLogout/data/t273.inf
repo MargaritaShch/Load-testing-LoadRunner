@@ -1,0 +1,11 @@
+[t273]
+FileName1=t273.htm
+URL1=http://localhost:1080/cgi-bin/nav.pl?in=home
+Total=1
+ContentType=text/html
+SnapshotXmlFile=snapshot_273.xml
+RequestHeaderFile=t273_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t273_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

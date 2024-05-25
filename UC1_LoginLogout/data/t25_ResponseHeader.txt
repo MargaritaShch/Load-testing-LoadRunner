@@ -1,0 +1,47 @@
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Length: 20
+Content-Type: text/html; charset=utf-8
+Content-Encoding: br
+Vary: Accept-Encoding
+P3P: CP="NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND"
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: x-ms-client-request-id, x-ms-useragent
+Access-Control-Allow-Methods: GET
+Access-Control-Allow-Origin: https://www.bing.com
+X-EventID: 661bada7dafc40acbe4eb170afb1ada2
+UserAgentReductionOptOut: A7kgTC5xdZ2WIVGZEfb1hUoNuvjzOZX3VIV/BA6C18kQOOF50Q0D3oWoAm49k3BQImkujKILc7JmPysWk3CSjwUAAACMeyJvcmlnaW4iOiJodHRwczovL3d3dy5iaW5nLmNvbTo0NDMiLCJmZWF0dXJlIjoiU2VuZEZ1bGxVc2VyQWdlbnRBZnRlclJlZHVjdGlvbiIsImV4cGlyeSI6MTY4NDg4NjM5OSwiaXNTdWJkb21haW4iOnRydWUsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0=
+Content-Security-Policy-Report-Only: script-src https: 'strict-dynamic' 'report-sample' 'nonce-oMC7VjcFBL+GtuYKJLqzf7Is4fU8Bcjn6HrX3AJeyg0='; base-uri 'self';report-to csp-endpoint
+Report-To: {"group":"csp-endpoint","max_age":86400,"endpoints":[{"url":"https://aefd.nelreports.net/api/report?cat=bingcsp"}]}
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+X-MSEdge-Ref: Ref A: 14ED5BAE3A9045688E354191395E4E54 Ref B: FRAEDGE1708 Ref C: 2024-04-14T10:19:19Z
+Date: Sun, 14 Apr 2024 10:19:19 GMT
+Connection: keep-alive
+Set-Cookie: _EDGE_S=SID=275D100EA330647704D0046FA2306500; path=/; HttpOnly
+Set-Cookie: MUIDB=08F4CA78CBD669582403DE65CA7F68C7; expires=Fri, 09-May-2025 10:19:19 GMT; path=/; HttpOnly
+Set-Cookie: WLS=C=a399d551649951f2&N=Margarita; path=/; secure; SameSite=None
+Set-Cookie: _SS=SID=275D100EA330647704D0046FA2306500; path=/; secure; SameSite=None
+Set-Cookie: _U=1f2uwlkZnqGCy4rbieWbJd-ypDrwNZwowzLsGe4Ikold4UrMVc2KZPt4x_6Xgzem7DBTkYGhaLcMRPYgLbW3ykBBmBFJjjMuPF42jbAQ7YiHqGDOaZvXntWhfK5xhZdFll1oCsVlK0Ulcid1R0p9WTx-DhNd2EWTJ3MX06bbiFW1rFIEIaH5Zb2nbVv2FPbWG39H7dnm-OhPfEv93ttM8Tw; expires=Sun, 28-Apr-2024 10:19:19 GMT; path=/; secure; SameSite=None
+Set-Cookie: ANON=A=022CDA96091158A16CEFA276FFFFFFFF&E=1d24&W=1; expires=Tue, 14-Apr-2026 10:19:19 GMT; path=/; secure; SameSite=None
+Alt-Svc: h3=":443"; ma=93600
+X-CDN-TraceID: 0.1d92645f.1713089959.809e9c1f
+Set-Cookie: _C_Auth=; Domain=.microsoft.com; Path=/; Expires=Fri, 1 Mar 2024 00:00:00 GMT
+Set-Cookie: USRLOC=; Domain=.microsoft.com; Path=/; Expires=Fri, 1 Mar 2024 00:00:00 GMT
+Set-Cookie: SnrOvr=; Domain=.microsoft.com; Path=/; Expires=Fri, 1 Mar 2024 00:00:00 GMT
+Set-Cookie: SRCHUSR=; Domain=.microsoft.com; Path=/; Expires=Fri, 1 Mar 2024 00:00:00 GMT
+Set-Cookie: SRCHHPGUSR=; Domain=.microsoft.com; Path=/; Expires=Fri, 1 Mar 2024 00:00:00 GMT
+Set-Cookie: PPLState=; Domain=.microsoft.com; Path=/; Expires=Fri, 1 Mar 2024 00:00:00 GMT
+Set-Cookie: NAP=; Domain=.microsoft.com; Path=/; Expires=Fri, 1 Mar 2024 00:00:00 GMT
+Set-Cookie: MicrosoftApplicationsTelemetryDeviceId=; Domain=.microsoft.com; Path=/; Expires=Fri, 1 Mar 2024 00:00:00 GMT
+Set-Cookie: ANID=; Domain=.microsoft.com; Path=/; Expires=Fri, 1 Mar 2024 00:00:00 GMT
+Set-Cookie: ACLUSR=; Domain=.microsoft.com; Path=/; Expires=Fri, 1 Mar 2024 00:00:00 GMT
+Set-Cookie: BCBSWITCH=; Domain=.microsoft.com; Path=/; Expires=Fri, 1 Mar 2024 00:00:00 GMT
+Set-Cookie: BFBFB=; Domain=.microsoft.com; Path=/; Expires=Fri, 1 Mar 2024 00:00:00 GMT
+Set-Cookie: BFB=; Domain=.microsoft.com; Path=/; Expires=Fri, 1 Mar 2024 00:00:00 GMT
+Set-Cookie: OIDR=; Domain=.microsoft.com; Path=/; Expires=Fri, 1 Mar 2024 00:00:00 GMT
+Set-Cookie: OIDI=; Domain=.microsoft.com; Path=/; Expires=Fri, 1 Mar 2024 00:00:00 GMT
+Set-Cookie: ANON=; Domain=.microsoft.com; Path=/; Expires=Fri, 1 Mar 2024 00:00:00 GMT
+Set-Cookie: MUID=; Domain=.microsoft.com; Path=/; Expires=Fri, 1 Mar 2024 00:00:00 GMT
+Set-Cookie: KievRPSSecAuth=; Domain=.microsoft.com; Path=/; Expires=Fri, 1 Mar 2024 00:00:00 GMT
+Set-Cookie: bm_sv=241479D0AA6D6FD0074589DA66AE9B58~YAAQHZJkX3XfqbuOAQAAFlUe3BedBRO3IVGkKrBw5h7ZAs1iDC58TO31u/0fmzqTUga7Rz3/6Erjj3rlGtol8vR3lJpOGVDRsTcTV5oqoHZkoGQjXjyKPrUbS3BqC/l1M+Nh1ZXVCUnUxpCMkmPdYGZt/FYs8oMgJYbEPY8+TCasvLkLHOMn4pE3h7SKGDNRB+C1rCrwiAoJ2R4ZoIgq84m6CoaJqMZOeROJzGDC0VcfnE14Man9+7v4MThQcJ1Xek9Q~1; Domain=.microsoft.com; Path=/; Expires=Sun, 14 Apr 2024 12:19:19 GMT; Max-Age=7200; Secure
+

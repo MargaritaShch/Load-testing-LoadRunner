@@ -1,0 +1,7 @@
+Error: CCI compilation error -c:\users\naomi\appdata\local\temp\brr_4by.294\global_dir\123720920\pre_cci.c: Action.c:62: error: syntax error; found `web_submit_data' expecting `;'.	[MsgId: MERR-19799]
+Error: CCI compilation error -c:\users\naomi\appdata\local\temp\brr_4by.294\global_dir\123720920\pre_cci.c: Action.c:187: error: syntax error; found `;' expecting `)'.	[MsgId: MERR-19799]
+Error: CCI compilation error -c:\users\naomi\appdata\local\temp\brr_4by.294\global_dir\123720920\pre_cci.c: Action.c:191: error: insufficient number of arguments to `lr_end_transaction'.	[MsgId: MERR-19799]
+Error: CCI compilation error -c:\users\naomi\appdata\local\temp\brr_4by.294\global_dir\123720920\pre_cci.c: c:\\users\\naomi\\appdata\\local\\temp\\brr_4by.294\\global_dir\\123720920\\combined_UC3_TicketPurchase.c:6: error: 3 errors, not writing pre_cci.ci.	[MsgId: MERR-19799]
+Error: Vuser compilation failed. Please set CCIDebug to Off in CCI section of mdrv.dat file.	[MsgId: MERR-19797]
+Warning: Extension cciext.dll reports error -19797 on call to function ExtPerProcessInitialize	[MsgId: MWAR-10485]
+Error: Thread Context: Call to service of the driver failed, reason - thread context wasn't initialized on this thread.	[MsgId: MERR-10176]

@@ -1,0 +1,11 @@
+[t173]
+FileName1=t173.json
+URL1=https://assets.msn.com/content/view/v1/Preview/AAGyAUv/
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_173.xml
+RequestHeaderFile=t173_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t173_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

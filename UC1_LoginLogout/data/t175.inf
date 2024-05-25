@@ -1,0 +1,11 @@
+[t175]
+FileName1=t175_th.jpeg
+URL1=https://th.bing.com/th?id=ORMS.fa5453af3f4100db79ec40c12bf6ea75&pid=Wdp&w=300&h=156&qlt=90&c=1&rs=1&dpr=1&p=0
+Total=1
+ContentType=image/jpeg
+SnapshotXmlFile=snapshot_175.xml
+RequestHeaderFile=t175_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t175_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

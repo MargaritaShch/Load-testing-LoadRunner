@@ -1,0 +1,11 @@
+[t108]
+FileName1=t108_selection.json
+URL1=https://arc.msn.com/v4/api/selection?nct=1&fmt=json&nocookie=0&locale=en-xl&country=GE&muid=047FE09A36C068D9071EF357375969CA&AREF=2&ACHANNEL=4&ABUILD=123.0.6312.106&clr=esdk&edgeid=3337287604877298657&ISU=0&ADEFAB=0&devosver=10.0.22621.3447&OPSYS=WIN10&poptin=1&UITHEME=light&pageConfig=41&ISSIGNEDIN=0&MSN_CANVAS=2&ISMOBILE=0&BROWSER=6&placement=88000308|10837393&bcnt=1|1&SCS_msNtpExp=msNtpExp18&asid=01590f17889947bdc8bd86c5a0b17968
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_108.xml
+RequestHeaderFile=t108_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t108_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,11 @@
+[t256]
+FileName1=t256_cbc3a1af7858651b0343ffd0ed2efaed.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/rewardscoachmarkdata/default/index.json/cbc3a1af7858651b0343ffd0ed2efaed.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_256.xml
+RequestHeaderFile=t256_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t256_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

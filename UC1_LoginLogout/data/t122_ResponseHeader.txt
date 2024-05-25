@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 2
+Expires: Sun, 14 Apr 2024 10:20:37 GMT
+Date: Sun, 14 Apr 2024 10:20:37 GMT
+Connection: keep-alive
+Akamai-Request-BC: [a=2.16.19.53,b=113099232,c=g,n=GR__ATHENS,o=6762]
+Server-Timing: clientrtt; dur=93, clienttt; dur=1, origin; dur= , cdntime; dur=1
+Akamai-Cache-Status: NotCacheable from child
+Access-Control-Max-Age: 300
+Akamai-Server-IP: 2.16.19.53
+Akamai-Request-ID: 6bdc1e0
+Access-Control-Expose-Headers: TicketType,RequestContinuationKey,AuthToken,Content-Type,x-client-activityid,ms-cv,signedInCookieName,muid,appid,User-Location,user-location,userauthtoken,usertickettype,sitename,s2sauthtoken,thumbprint,Authorization,Ent-Authorization,UserIdToken,DDD-TMPL,DDD-ActivityId,DDD-FeatureSet,DDD-Session-ID,Date,date,ads-referer,taboola-sessionId,taboola-sessionid,Akamai-Request-ID,Akamai-Server-IP,X-MSEdge-Ref,DDD-DebugId,X-Statics-Fallback,X-FD-RevIP,X-FD-ClientIP,s-xbox-token,X-Client-Data,x-fd-features,cache-control,pragma,traceparent,Widgets,Muted,OneSvc-Uni-Feat-Tun,appUninstall,Velocity,SoftLanding,PrefMigrated,Akamai-Request-BC
+Access-Control-Allow-Headers: TicketType,RequestContinuationKey,AuthToken,Content-Type,x-client-activityid,ms-cv,signedInCookieName,muid,appid,User-Location,user-location,userauthtoken,usertickettype,sitename,s2sauthtoken,thumbprint,Authorization,Ent-Authorization,UserIdToken,DDD-TMPL,DDD-ActivityId,DDD-FeatureSet,DDD-Session-ID,Date,date,ads-referer,taboola-sessionId,taboola-sessionid,Akamai-Request-ID,Akamai-Server-IP,X-MSEdge-Ref,DDD-DebugId,X-Statics-Fallback,X-FD-RevIP,X-FD-ClientIP,s-xbox-token,X-Client-Data,x-fd-features,cache-control,pragma,traceparent,Widgets,Muted,OneSvc-Uni-Feat-Tun,appUninstall,Velocity,SoftLanding,PrefMigrated
+Access-Control-Allow-Methods: PUT,PATCH,POST,GET,OPTIONS,DELETE
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://ntp.msn.com
+X-AS-SuppressSetCookie: 1
+Cache-Control: public, max-age=300
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://deff.nelreports.net/api/report?cat=msn"}]}
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":0.1}
+Timing-Allow-Origin: *
+Akamai-GRN: 0.35131002.1713090037.6bdc1e0
+Vary: Origin
+

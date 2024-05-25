@@ -1,0 +1,11 @@
+[t60]
+FileName1=t60_4f0ba597b16d8ebae046bc4014e935a4.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/edgechromiumpagewc/default/config_prg-ncm.json/4f0ba597b16d8ebae046bc4014e935a4.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_60.xml
+RequestHeaderFile=t60_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t60_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,11 @@
+[t113]
+FileName1=t113_9cb8a7d561b1983ba139e4f359b496f8.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/commonsearchboxedgenext/default/config.json/9cb8a7d561b1983ba139e4f359b496f8.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_113.xml
+RequestHeaderFile=t113_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t113_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

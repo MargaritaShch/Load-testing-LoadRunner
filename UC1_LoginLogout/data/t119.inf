@@ -1,0 +1,11 @@
+[t119]
+FileName1=t119_d582335611681a3a2626eac39fa0cd89.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/supernav/default/config_en-xl.json/d582335611681a3a2626eac39fa0cd89.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_119.xml
+RequestHeaderFile=t119_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t119_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

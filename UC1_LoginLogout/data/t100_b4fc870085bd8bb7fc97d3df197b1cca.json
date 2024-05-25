@@ -1,0 +1,1 @@
+{"experienceType":"ScrollDownButton","configs":[{"src":"config.json"},{"targetScope":{"experimentId":"prg-scrolldownbtn2"},"src":"config_prg-scrolldownbtn2.json"},{"targetScope":{"experimentId":"prg-exploremore2"},"src":"config_prg-exploremore2.json"},{"targetScope":{"experimentId":"prg-scrolldownbtn3"},"src":"config_prg-scrolldownbtn3.json"}]}

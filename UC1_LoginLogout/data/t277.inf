@@ -1,0 +1,11 @@
+[t277]
+FileName1=t277.htm
+URL1=http://localhost:1080/cgi-bin/welcome.pl?signOff=1
+Total=1
+RequestHeaderFile=t277_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t277_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_277.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

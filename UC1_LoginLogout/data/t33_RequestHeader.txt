@@ -1,0 +1,18 @@
+POST /componentupdater/api/v1/update HTTP/1.1
+Host: edge.microsoft.com
+Connection: keep-alive
+Content-Length: 1470
+X-Microsoft-Update-Service-Cohort: 3548
+Content-Type: application/json
+Sec-Mesh-Client-Edge-Version: 123.0.2420.81
+Sec-Mesh-Client-Edge-Channel: stable
+Sec-Mesh-Client-OS: Windows
+Sec-Mesh-Client-OS-Version: 10.0.22621
+Sec-Mesh-Client-Arch: x86_64
+Sec-Mesh-Client-WebView: 0
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+Accept-Encoding: gzip, deflate, br, zstd
+

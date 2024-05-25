@@ -1,0 +1,11 @@
+[t76]
+FileName1=t76_e28f3538f030c58a157e6a822b7eb69a.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/topicdata/default/index.json/e28f3538f030c58a157e6a822b7eb69a.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_76.xml
+RequestHeaderFile=t76_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t76_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

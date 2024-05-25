@@ -1,0 +1,6 @@
+[t29]
+FileName1=t29_v1.xml
+URL1=https://edge.microsoft.com/neededge/v1?bucket=69
+Total=1
+ContentType=application/xml
+SnapshotXmlFile=snapshot_29.xml

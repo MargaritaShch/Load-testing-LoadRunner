@@ -1,0 +1,11 @@
+[t166]
+FileName1=t166_a28dd8e94dbeedb5c513e97facb7a489.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/shared/msn-ns/publishersubscribefollowbutton/default/index.json/a28dd8e94dbeedb5c513e97facb7a489.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_166.xml
+RequestHeaderFile=t166_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t166_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

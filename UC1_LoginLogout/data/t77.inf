@@ -1,0 +1,11 @@
+[t77]
+FileName1=t77_685a818462b0a40ca38c3a876390e679.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/channeldata/default/index.json/685a818462b0a40ca38c3a876390e679.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_77.xml
+RequestHeaderFile=t77_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t77_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

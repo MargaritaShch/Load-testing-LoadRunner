@@ -1,0 +1,11 @@
+[t160]
+FileName1=t160_ff96f163b9a00ce696721dcaa3638d20.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/moneyinfo/default/index.json/ff96f163b9a00ce696721dcaa3638d20.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_160.xml
+RequestHeaderFile=t160_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t160_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

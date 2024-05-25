@@ -1,0 +1,11 @@
+[t188]
+FileName1=t188_14d13a2608164551ea198c3dc78d2587.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/notificationbellwc/default/index.json/14d13a2608164551ea198c3dc78d2587.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_188.xml
+RequestHeaderFile=t188_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t188_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

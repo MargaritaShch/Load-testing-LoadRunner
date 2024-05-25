@@ -1,0 +1,11 @@
+[t210]
+FileName1=t210_f683297120593e74736b56104372aabc.json
+URL1=https://assets.msn.com/periconfigs/loc-configs/superbreakingnews/default/index.json/f683297120593e74736b56104372aabc.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_210.xml
+RequestHeaderFile=t210_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t210_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

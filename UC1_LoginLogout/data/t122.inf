@@ -1,0 +1,11 @@
+[t122]
+FileName1=t122.htm
+URL1=https://assets.msn.com/service/news/feed/pages/ntp?User=m-047FE09A36C068D9071EF357375969CA&activityId=B81EDEE8-5B95-42D1-95E6-4839775097E5&apikey=0QfOX3Vn51YCzitbLaRkTTBadtWpgTN8NZLW0C1SEM&audienceMode=adult&caller=bgtask&cm=en-xl&column=c2&contentType=article,video,slideshow,webcontent&dhp=1&duotone=true&edgExpMask=262144&infopaneCount=17&it=app&memory=8&newsSkip=0&newsTop=48&ocid=anaheim-ntp-feeds&pgc=297&prerender=1&scn=APP_ANON&timeOut=2000&vpSize=910x429&wposchema=byregion
+Total=1
+RequestHeaderFile=t122_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t122_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_122.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,11 @@
+[t94]
+FileName1=t94_ba9639ddfffff387d76079e62e42fed1.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/stickypeek/default/index.json/ba9639ddfffff387d76079e62e42fed1.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_94.xml
+RequestHeaderFile=t94_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t94_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

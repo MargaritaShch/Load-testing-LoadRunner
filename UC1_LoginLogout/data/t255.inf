@@ -1,0 +1,11 @@
+[t255]
+FileName1=t255_d3287309247150652f3d743027ac2462.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/rewardsdata/default/index.json/d3287309247150652f3d743027ac2462.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_255.xml
+RequestHeaderFile=t255_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t255_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

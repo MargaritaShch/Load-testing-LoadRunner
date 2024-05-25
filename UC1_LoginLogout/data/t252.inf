@@ -1,0 +1,11 @@
+[t252]
+FileName1=t252_481ba17414e7899524eddb7f42af4f04.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/toastwc/default/config.json/481ba17414e7899524eddb7f42af4f04.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_252.xml
+RequestHeaderFile=t252_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t252_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

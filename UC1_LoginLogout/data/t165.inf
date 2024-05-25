@@ -1,0 +1,11 @@
+[t165]
+FileName1=t165_c011e4cfaad1ee1baa92e3c8c3a71e27.json
+URL1=https://assets.msn.com/periconfigs/loc-configs/weathercardwc/default/config_en.json/c011e4cfaad1ee1baa92e3c8c3a71e27.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_165.xml
+RequestHeaderFile=t165_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t165_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

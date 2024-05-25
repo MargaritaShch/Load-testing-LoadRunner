@@ -1,0 +1,11 @@
+[t80]
+FileName1=t80_4a48d9b48131eef49b36f865b07ebb16.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/telemetrydata/default/config.json/4a48d9b48131eef49b36f865b07ebb16.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_80.xml
+RequestHeaderFile=t80_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t80_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

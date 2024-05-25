@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Content-Type: image/jpeg
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Methods: GET, POST, OPTIONS
+Timing-Allow-Origin: *
+Report-To: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://aefd.nelreports.net/api/report?cat=bingth"}]}
+NEL: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1.0}
+Content-Length: 8642
+Cache-Control: public, max-age=2335002
+Date: Sun, 14 Apr 2024 10:20:40 GMT
+X-Cache: TCP_MEM_HIT from a95-100-146-12.deploy.akamaitechnologies.com (AkamaiGHost/11.4.5-55391218) (-)
+Connection: keep-alive
+Alt-Svc: h3=":443"; ma=93600
+Akamai-GRN: 0.0c92645f.1713090040.344499b7
+X-Check-Cacheable: YES
+

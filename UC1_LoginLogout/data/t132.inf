@@ -1,0 +1,11 @@
+[t132]
+FileName1=t132_f707ab9fec4cc00b2f23af6a2f0632e9.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/backgroundimagewc/default/index.json/f707ab9fec4cc00b2f23af6a2f0632e9.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_132.xml
+RequestHeaderFile=t132_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t132_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

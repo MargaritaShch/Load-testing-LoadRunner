@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Cache-Control: public,max-age=1728000,immutable
+Content-Length: 105320
+Content-Type: application/json; charset=utf-8
+Content-Encoding: br
+ETag: "Lh1xAsBoit9XwZ21iXoQxzZwnoQ"
+Vary: Accept-Encoding
+X-Cache: TCP_MISS
+X-CRS-BuildVersion: 20240408.2_master
+X-CRS-Env: Production
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":1.0}
+nel-report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://deff.nelreports.net/api/report?cat=msn"}]}
+Accept-CH: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA, Sec-CH-Viewport-Width, Sec-CH-Viewport-Height, Sec-CH-Prefers-Color-Scheme, Device-Memory, Downlink, ECT, RTT
+X-Ceto-ref: 661badcf187a483895518eec8d1dbd4f|AFD:3A3E076D4E97403D9CD48907896B0A32|2024-04-14T10:19:59.462Z
+X-CID: 7
+X-CCC: AT
+X-MSEdge-Ref: Ref A: 3A3E076D4E97403D9CD48907896B0A32 Ref B: VIEEDGE3608 Ref C: 2024-04-14T10:19:59Z
+Date: Sun, 14 Apr 2024 10:19:58 GMT
+

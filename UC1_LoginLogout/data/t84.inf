@@ -1,0 +1,11 @@
+[t84]
+FileName1=t84_1b075e61ef08da5a4d1ac297e737afe1.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/irisdata/default/config_adult.json/1b075e61ef08da5a4d1ac297e737afe1.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_84.xml
+RequestHeaderFile=t84_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t84_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,11 @@
+[t168]
+FileName1=t168_1523118b13420b5fb2fc9926f45f09d3.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/contentgroupcard/default/config_en.json/1523118b13420b5fb2fc9926f45f09d3.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_168.xml
+RequestHeaderFile=t168_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t168_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

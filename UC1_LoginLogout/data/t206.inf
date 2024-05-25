@@ -1,0 +1,11 @@
+[t206]
+FileName1=t206_76f8557c995f9f8a904f4d1f43497925.json
+URL1=https://assets.msn.com/periconfigs/loc-configs/pillwc/default/index.json/76f8557c995f9f8a904f4d1f43497925.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_206.xml
+RequestHeaderFile=t206_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t206_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

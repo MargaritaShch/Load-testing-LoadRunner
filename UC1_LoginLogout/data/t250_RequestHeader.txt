@@ -1,0 +1,20 @@
+GET /periconfigs/feature-configs/superbreakingnews/default/config_en-xl.json/4548e1027cc352294a82036dbc436a87.json HTTP/1.1
+Host: assets.msn.com
+Connection: keep-alive
+sec-ch-ua: "Microsoft Edge";v="123", "Not:A-Brand";v="8", "Chromium";v="123"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Origin: https://ntp.msn.com
+X-Edge-Shopping-Flag: 1
+Sec-MS-GEC: ACC91C13C13940C5F92958826644C2D97BB012E5DE823C4011CFEE6F74688AAB
+Sec-MS-GEC-Version: 1-123.0.2420.81
+X-Client-Data: eyIxIjoiMSIsIjEwIjoiXCJhazdIY1FwbmxabjhtOWFUeVJSK1RCbERzK051MGVBUHlQUEpsaEJnMy9nPVwiIiwiMiI6IjEiLCIzIjoiMCIsIjQiOiIzMzM3Mjg3NjA0ODc3Mjk4NjU3IiwiNSI6IlwiQ2t1QW1sUHhIejJDUmFJbkJWNmlhbTVVMmRSazdsREV6Z3RiK0I5TlVUOD1cIiIsIjYiOiJzdGFibGUiLCI3IjoiMjA0MDEwOTQ2NTYwMiIsIjkiOiJkZXNrdG9wIn0=
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://ntp.msn.com/
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+

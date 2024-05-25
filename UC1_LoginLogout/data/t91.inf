@@ -1,0 +1,11 @@
+[t91]
+FileName1=t91_1456c759bae2323aefe91bd8b1c13923.json
+URL1=https://assets.msn.com/periconfigs/loc-configs/gridviewfeed/default/index.json/1456c759bae2323aefe91bd8b1c13923.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_91.xml
+RequestHeaderFile=t91_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t91_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

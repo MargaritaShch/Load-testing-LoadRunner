@@ -1,0 +1,6 @@
+[t66]
+FileName1=t66_service-worker.html
+URL1=https://ntp.msn.com/edge/ntp/service-worker.js?bundles=latest&riverAgeMinutes=2880&enableNetworkFirst=true&navAgeMinutes=2880&enableNavPreload=true&enableEmptySectionRoute=true&enableFallbackVerticalsFeed=true&networkTimeoutSeconds=5
+Total=1
+ContentType=application/javascript
+SnapshotXmlFile=snapshot_66.xml

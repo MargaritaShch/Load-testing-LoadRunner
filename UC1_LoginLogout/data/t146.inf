@@ -1,0 +1,11 @@
+[t146]
+FileName1=t146_dde51732c7a58fc4be282299452b6617.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/topsitesedgenextwc/default/config_prg-edg-tmtrig.json/dde51732c7a58fc4be282299452b6617.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_146.xml
+RequestHeaderFile=t146_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t146_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

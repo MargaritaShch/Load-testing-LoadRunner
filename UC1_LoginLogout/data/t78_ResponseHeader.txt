@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Content-Type: application/json
+Content-MD5: wbgCa8cpdbPkzjmZQxJoZA==
+Last-Modified: Thu, 11 Apr 2024 02:21:57 GMT
+ETag: 0x8DC59CE29A16055
+Server: Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0
+x-ms-request-id: 747ae293-201e-004f-3837-8cd0a9000000
+x-ms-version: 2009-09-19
+x-ms-lease-status: unlocked
+x-ms-blob-type: BlockBlob
+Content-Encoding: gzip
+Content-Length: 276
+Date: Sun, 14 Apr 2024 10:20:31 GMT
+Connection: keep-alive
+Akamai-Request-BC: [a=2.16.19.53,b=113090886,c=g,n=GR__ATHENS,o=6762]
+Server-Timing: clientrtt; dur=101, clienttt; dur=0, origin; dur=0 , cdntime; dur=0
+Akamai-Cache-Status: Hit from child
+Akamai-Server-IP: 2.16.19.53
+Akamai-Request-ID: 6bda146
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://ntp.msn.com
+Cache-Control: max-age=604800
+Timing-Allow-Origin: *
+Akamai-GRN: 0.35131002.1713090031.6bda146
+Vary: Origin
+

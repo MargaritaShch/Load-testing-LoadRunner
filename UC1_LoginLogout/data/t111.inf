@@ -1,0 +1,11 @@
+[t111]
+FileName1=t111_293a256421f6c038fcfcb160848fd98f.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/gridviewfeed/default/config_prg-f3-video.json/293a256421f6c038fcfcb160848fd98f.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_111.xml
+RequestHeaderFile=t111_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t111_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

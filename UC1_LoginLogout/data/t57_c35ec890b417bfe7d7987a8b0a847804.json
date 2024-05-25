@@ -1,0 +1,1 @@
+{"properties":{"childRefs":{"msRewards":{"instanceId":"MsRewardsWC","configRef":{"experienceType":"MsRewardsWC","instanceSrc":"default"}},"signInControl":{"instanceId":"SignInControlWC","configRef":{"experienceType":"SignInControlWC","instanceSrc":"default"}}},"enableCountryCheckForRewards":true,"bufferSizeOverride":20,"enableSignInControl":true,"enableSearchHistInf":true}}

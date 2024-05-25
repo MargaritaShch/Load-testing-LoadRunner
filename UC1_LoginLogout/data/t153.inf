@@ -1,0 +1,11 @@
+[t153]
+FileName1=t153.json
+URL1=https://assets.msn.com/content/view/v1/Preview/BBZ2qdh/
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_153.xml
+RequestHeaderFile=t153_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t153_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

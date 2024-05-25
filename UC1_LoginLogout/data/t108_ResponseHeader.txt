@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Cache-Control: no-store, no-cache
+Pragma: no-cache
+Content-Length: 297
+Content-Type: application/json; charset=utf-8
+Expires: Mon, 01 Jan 0001 00:00:00 GMT
+Server: Microsoft-IIS/10.0
+ARC-RSP-DBG: [{"DcoPlusDebug":"Status: Ok"},{"RADIDS":"2,,"},{"OPTOUTSTATE":"0"},{"REGIONALPOLICY":"0"}]
+Accept-CH: UA, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform, UA-Platform-Version
+Access-Control-Allow-Origin: https://ntp.msn.com
+Access-Control-Allow-Credentials: true
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Date: Sun, 14 Apr 2024 10:20:37 GMT
+

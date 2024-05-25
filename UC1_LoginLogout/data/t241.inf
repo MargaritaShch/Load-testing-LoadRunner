@@ -1,0 +1,11 @@
+[t241]
+FileName1=t241_6d152f9b6f2364c1d90535385a7b61fd.json
+URL1=https://assets.msn.com/periconfigs/loc-configs/codexbingchat/default/config_en.json/6d152f9b6f2364c1d90535385a7b61fd.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_241.xml
+RequestHeaderFile=t241_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t241_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

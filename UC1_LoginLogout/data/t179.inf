@@ -1,0 +1,11 @@
+[t179]
+FileName1=t179_c0f51f06cdc1be01d2c93fa39c3eb17f.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/backgroundgallery/default/index.json/c0f51f06cdc1be01d2c93fa39c3eb17f.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_179.xml
+RequestHeaderFile=t179_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t179_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

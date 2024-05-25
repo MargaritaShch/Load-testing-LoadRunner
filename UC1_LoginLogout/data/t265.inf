@@ -1,0 +1,11 @@
+[t265]
+FileName1=t265_Rewards.json
+URL1=https://assets.msn.com/service/News/Users/me/Rewards?apikey=1hYoJsIRvPEnSkk0hlnJF2092mHqiz7xFenIFKa9uc&activityId=B81EDEE8-5B95-42D1-95E6-4839775097E5&ocid=rewards-peregrine&cm=en-xl&it=app&user=m-047FE09A36C068D9071EF357375969CA&scn=APP_ANON&version=2
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_265.xml
+RequestHeaderFile=t265_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t265_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

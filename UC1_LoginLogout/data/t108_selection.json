@@ -1,0 +1,1 @@
+{"batchrsp":{"ver":"1.0","errors":[{"placement":"88000308","errors":[{"code":2040,"msg":"Demand source returns error (Name: GN_ps, Error: No eligible content.)."}]},{"placement":"10837393","errors":[{"code":2040,"msg":"Demand source returns error (Name: GN_ps, Error: No eligible content.)."}]}]}}

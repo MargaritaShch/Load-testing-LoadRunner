@@ -1,0 +1,18 @@
+POST /OneCollector/1.0/ HTTP/1.1
+Host: functional.events.data.microsoft.com
+Connection: keep-alive
+Content-Length: 1014
+APIKey: 70109aa3567b40e3bb8ac9e67a07b58a-b00e4868-b511-4be4-90dd-6370c812f0af-7167
+Client-Id: NO_AUTH
+Content-Encoding: deflate
+Content-Type: application/bond-compact-binary
+Expect: 100-continue
+SDK-Version: EVT-Windows-C++-No-3.5.131.1
+Tickets: "10001"="p:t=GwBmAbuEBAAU2qcZHJoKGNizGOeyqM4OaIoSZ0MOZgAAENO6mHtVbGCAe1gLJDBfFVowAcn8NXHxTrwqjhzinnZQbEu5BQXQjhILB6zX2/8hhEASQJVttpGaGj/vUH4YQ7bW0fLBl8A+fUkRFYU5MVqMaPROp2hUK+XfSGU+nov9fb/F4KaCRG5rIKuGsxnkjCkp84g7h3rFFCqXvhV+O/sEE8MssWlhoV46JJPwew0UifxVa4SFZa+cacY9L6ZTXUyA4KJumeTNBGLNBXwyyJ+aEd/QfugEFjOIOuH9DWExUQExWeoosip30aJsx+oX9Yymn1aAJZIiED2n3iZWuT6FhZUGb8FUm6aX4vjWVxjiZVPgAdeXu9jrrSjjAeYWU7cBgukFoRLcvwGyDJZR1M+OqmEx2nQKcVurQtn0p6aet44wr13D9KprpKuWWXq8oiq45j34cg9xq/XXvcggv4ix8UNgAQ==&p="
+Upload-Time: 1713089945879
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+Accept-Encoding: gzip, deflate, br, zstd
+

@@ -1,0 +1,11 @@
+[t58]
+FileName1=t58_fdbac5e861118368f5410b859edb51bb.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/edgechromiumpagewc/default/config_en-xl_adult_windows.json/fdbac5e861118368f5410b859edb51bb.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_58.xml
+RequestHeaderFile=t58_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t58_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

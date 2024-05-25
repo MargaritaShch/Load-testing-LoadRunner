@@ -1,0 +1,11 @@
+[t198]
+FileName1=t198_1ab21b919dfe65e72314f7cb5a5f90b1.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/signincontrolwc/default/index.json/1ab21b919dfe65e72314f7cb5a5f90b1.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_198.xml
+RequestHeaderFile=t198_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t198_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

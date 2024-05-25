@@ -1,0 +1,11 @@
+[t258]
+FileName1=t258_be48bb276aabfb8bb76222a4576fb9a4.json
+URL1=https://assets.msn.com/periconfigs/loc-configs/rewardscoachmarkdata/default/index.json/be48bb276aabfb8bb76222a4576fb9a4.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_258.xml
+RequestHeaderFile=t258_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t258_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

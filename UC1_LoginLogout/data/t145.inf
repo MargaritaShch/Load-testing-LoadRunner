@@ -1,0 +1,11 @@
+[t145]
+FileName1=t145_0fa7e539f29f5e6b523a0cc1f649ed4c.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/topsitesedgenextwc/default/config_prg-tps-sort.json/0fa7e539f29f5e6b523a0cc1f649ed4c.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_145.xml
+RequestHeaderFile=t145_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t145_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

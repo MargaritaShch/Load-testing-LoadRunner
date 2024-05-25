@@ -1,0 +1,11 @@
+[t130]
+FileName1=t130_29ad9f1fd48a71e67f3feb642ceaf567.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/supercomponentdata/default/index.json/29ad9f1fd48a71e67f3feb642ceaf567.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_130.xml
+RequestHeaderFile=t130_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t130_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

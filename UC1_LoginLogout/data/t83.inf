@@ -1,0 +1,11 @@
+[t83]
+FileName1=t83_35ac53cc8aa7f1fabedacb50108564d2.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/irisdata/default/config.json/35ac53cc8aa7f1fabedacb50108564d2.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_83.xml
+RequestHeaderFile=t83_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t83_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

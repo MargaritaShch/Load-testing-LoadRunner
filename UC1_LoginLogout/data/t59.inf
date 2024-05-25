@@ -1,0 +1,11 @@
+[t59]
+FileName1=t59_74c1904b8c027abe4940f4d2615bf026.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/edgechromiumpagewc/default/config_prg-ad-safe.json/74c1904b8c027abe4940f4d2615bf026.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_59.xml
+RequestHeaderFile=t59_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t59_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

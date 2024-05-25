@@ -1,0 +1,11 @@
+[t128]
+FileName1=t128_3d1bf1e54e0fcd0b95d6ce0ffd6c3690.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/channelstore/default/config.json/3d1bf1e54e0fcd0b95d6ce0ffd6c3690.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_128.xml
+RequestHeaderFile=t128_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t128_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

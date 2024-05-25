@@ -1,0 +1,11 @@
+[t193]
+FileName1=t193_c5cba2665d934b64ecf27b32d9c3fb78.json
+URL1=https://assets.msn.com/periconfigs/loc-configs/marketlanguagetogglewc/default/index.json/c5cba2665d934b64ecf27b32d9c3fb78.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_193.xml
+RequestHeaderFile=t193_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t193_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

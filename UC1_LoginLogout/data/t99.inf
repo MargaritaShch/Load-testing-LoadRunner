@@ -1,0 +1,11 @@
+[t99]
+FileName1=t99_88ccd04559b17b93c732de32a7f17739.json
+URL1=https://assets.msn.com/periconfigs/loc-configs/shoppingnotification/default/index.json/88ccd04559b17b93c732de32a7f17739.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_99.xml
+RequestHeaderFile=t99_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t99_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

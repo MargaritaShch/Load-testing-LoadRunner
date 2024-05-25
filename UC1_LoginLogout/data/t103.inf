@@ -1,0 +1,11 @@
+[t103]
+FileName1=t103_51662eeb5a0e9195e5014861f46911ae.json
+URL1=https://assets.msn.com/periconfigs/loc-configs/floatbuttongroupwc/default/index.json/51662eeb5a0e9195e5014861f46911ae.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_103.xml
+RequestHeaderFile=t103_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t103_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

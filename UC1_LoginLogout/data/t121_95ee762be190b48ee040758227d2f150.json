@@ -1,0 +1,1 @@
+{"properties":{"popDelaySeconds":1,"promptEnabled":false,"isMockRun":false,"registrationApi":{"endpoint":"https://api.msn.com","path":"registration/webpush/subscribe","app":"ntpshopping-website"},"getKeyApi":{"path":"registration/webpush/key","endpoint":"https://api.msn.com"}}}

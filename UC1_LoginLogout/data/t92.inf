@@ -1,0 +1,11 @@
+[t92]
+FileName1=t92_7448c0439095f7242faaa13ee2e8e5ba.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/commonsearchboxedgenext/default/index.json/7448c0439095f7242faaa13ee2e8e5ba.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_92.xml
+RequestHeaderFile=t92_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t92_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

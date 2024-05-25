@@ -1,0 +1,11 @@
+[t240]
+FileName1=t240_9b8fd484ba3595a63fb45a1354203592.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/codexbingchat/default/config.json/9b8fd484ba3595a63fb45a1354203592.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_240.xml
+RequestHeaderFile=t240_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t240_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

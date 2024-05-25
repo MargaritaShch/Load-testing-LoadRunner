@@ -1,0 +1,11 @@
+[t172]
+FileName1=t172_2ccf4eb6882046e990ad3f0b46dc0c9e.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/moneyinfo/default/config_en-xl.json/2ccf4eb6882046e990ad3f0b46dc0c9e.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_172.xml
+RequestHeaderFile=t172_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t172_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,11 @@
+[t159]
+FileName1=t159_9313014b85ed145363370784456a6bd5.json
+URL1=https://assets.msn.com/periconfigs/loc-configs/contentgroupcard/default/index.json/9313014b85ed145363370784456a6bd5.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_159.xml
+RequestHeaderFile=t159_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t159_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

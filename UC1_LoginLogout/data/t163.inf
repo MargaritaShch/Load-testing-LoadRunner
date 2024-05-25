@@ -1,0 +1,11 @@
+[t163]
+FileName1=t163_57219b5e7221ec41471c43ba1bf668fa.json
+URL1=https://assets.msn.com/periconfigs/loc-configs/publishersubscribefollowbutton/default/index.json/57219b5e7221ec41471c43ba1bf668fa.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_163.xml
+RequestHeaderFile=t163_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t163_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

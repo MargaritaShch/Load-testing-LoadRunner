@@ -1,0 +1,11 @@
+[t75]
+FileName1=t75_78fa9f6b79504824d47807c4c8922914.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/backgrounddata/default/index.json/78fa9f6b79504824d47807c4c8922914.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_75.xml
+RequestHeaderFile=t75_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t75_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

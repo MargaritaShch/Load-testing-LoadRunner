@@ -1,0 +1,11 @@
+[t124]
+FileName1=t124_004349d6a7affd45ebceb3979eaf1abc.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/scrolldownbutton/default/config.json/004349d6a7affd45ebceb3979eaf1abc.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_124.xml
+RequestHeaderFile=t124_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t124_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

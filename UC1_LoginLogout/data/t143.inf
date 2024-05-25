@@ -1,0 +1,11 @@
+[t143]
+FileName1=t143_3bfb4116ddaedaf78870c7ca82051686.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/topsitesedgenextwc/default/config_windows.json/3bfb4116ddaedaf78870c7ca82051686.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_143.xml
+RequestHeaderFile=t143_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t143_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

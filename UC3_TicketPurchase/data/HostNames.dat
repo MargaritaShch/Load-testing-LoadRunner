@@ -1,0 +1,5 @@
+[hosts]
+localhost=
+clientservices.googleapis.com=
+accounts.google.com=
+update.googleapis.com=

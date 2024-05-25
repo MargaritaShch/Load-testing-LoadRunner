@@ -1,0 +1,11 @@
+[t183]
+FileName1=t183_4d9f9f184cedafa6ef82decfad53fb9a.json
+URL1=https://assets.msn.com/periconfigs/loc-configs/commonsettingsedgenext/default/index.json/4d9f9f184cedafa6ef82decfad53fb9a.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_183.xml
+RequestHeaderFile=t183_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t183_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

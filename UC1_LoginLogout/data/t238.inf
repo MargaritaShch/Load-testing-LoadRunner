@@ -1,0 +1,11 @@
+[t238]
+FileName1=t238_f957f996f886204ef6e1b657d070e0d1.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/nurturingcoachmark/default/config.json/f957f996f886204ef6e1b657d070e0d1.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_238.xml
+RequestHeaderFile=t238_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t238_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

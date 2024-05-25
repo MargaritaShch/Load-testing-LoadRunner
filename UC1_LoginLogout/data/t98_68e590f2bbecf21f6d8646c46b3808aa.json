@@ -1,0 +1,1 @@
+{"experienceType":"ShoppingNotification","description":"ShoppingNotification for NTP","configs":[{"src":"config.json"},{"targetScope":{"locale":{"language":"en","market":"us"},"experimentId":"prg-sh-notif"},"src":"config_en-us_prg-sh-notif.json"}]}

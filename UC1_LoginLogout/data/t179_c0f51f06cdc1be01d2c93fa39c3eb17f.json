@@ -1,0 +1,1 @@
+{"experienceType":"BackgroundGallery","configs":[{"src":"config.json"},{"targetScope":{"experimentId":"prg-holidaybg"},"src":"config_prg-holidaybg.json"},{"targetScope":{"experimentId":"prg-eventbg"},"src":"config_prg-eventbg.json"}]}

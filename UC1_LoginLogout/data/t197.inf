@@ -1,0 +1,11 @@
+[t197]
+FileName1=t197_c892fbcbbe41ffabd8516258f31b4d91.json
+URL1=https://assets.msn.com/periconfigs/loc-configs/msrewardswc/default/index.json/c892fbcbbe41ffabd8516258f31b4d91.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_197.xml
+RequestHeaderFile=t197_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t197_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

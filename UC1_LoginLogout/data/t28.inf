@@ -1,0 +1,11 @@
+[t28]
+FileName1=t28_signin.htm
+URL1=https://www.bing.com/fd/auth/signin?&action=header&provider=windows_live_id&save_token=0
+Total=1
+ContentType=text/html
+SnapshotXmlFile=snapshot_28.xml
+RequestHeaderFile=t28_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t28_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

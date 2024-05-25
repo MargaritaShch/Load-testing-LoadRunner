@@ -1,0 +1,11 @@
+[t32]
+FileName1=t32_activitystatus.json
+URL1=https://edge.microsoft.com/extensiondiagnostic/v1/activitystatus?x=id%3Daegnopegbbhjeeiganiajffnalhlkkjb%26v%3D1.4.0&x=id%3Dfjnehcbecaggobjholekjijaaekbnlgj%26v%3D3.84.0
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_32.xml
+RequestHeaderFile=t32_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t32_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

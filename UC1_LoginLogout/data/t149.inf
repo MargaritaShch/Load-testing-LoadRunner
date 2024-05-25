@@ -1,0 +1,11 @@
+[t149]
+FileName1=t149_f1d9606294bdd519d66b3ee65f617a5d.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/shared/msn-ns/sharedtimestamputil/default/index.json/f1d9606294bdd519d66b3ee65f617a5d.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_149.xml
+RequestHeaderFile=t149_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t149_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

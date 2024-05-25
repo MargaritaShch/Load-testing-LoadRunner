@@ -1,0 +1,11 @@
+[t186]
+FileName1=t186_ed36a4f59ca9a903fe1bcc72a1aa4345.json
+URL1=https://assets.msn.com/periconfigs/loc-configs/welcomegreetinglight/default/index.json/ed36a4f59ca9a903fe1bcc72a1aa4345.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_186.xml
+RequestHeaderFile=t186_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t186_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

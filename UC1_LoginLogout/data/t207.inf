@@ -1,0 +1,11 @@
+[t207]
+FileName1=t207_ce69842cc06b58687b27e856ca7153cd.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/cardactionwc/tellusmore/index.json/ce69842cc06b58687b27e856ca7153cd.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_207.xml
+RequestHeaderFile=t207_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t207_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

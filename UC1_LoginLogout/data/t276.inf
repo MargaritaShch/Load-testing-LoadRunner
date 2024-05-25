@@ -1,0 +1,11 @@
+[t276]
+FileName1=t276.htm
+URL1=http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home
+Total=1
+ContentType=text/html
+SnapshotXmlFile=snapshot_276.xml
+RequestHeaderFile=t276_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t276_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

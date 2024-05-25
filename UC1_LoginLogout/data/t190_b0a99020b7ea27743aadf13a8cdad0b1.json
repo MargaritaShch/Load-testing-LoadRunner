@@ -1,0 +1,1 @@
+{"experienceType":"FeedbackLinkWC","configs":[{"src":"config.json"},{"targetScope":{"experimentId":"prg-hide-fb-link"},"src":"config_prg-hide-fb-link.json"},{"targetScope":{"experimentId":"prg-no-fb-text"},"src":"config_prg-no-fb-text.json"}]}

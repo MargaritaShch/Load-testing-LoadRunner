@@ -1,0 +1,15 @@
+OPTIONS /service/news/feed/pages/ntp?User=m-047FE09A36C068D9071EF357375969CA&activityId=B81EDEE8-5B95-42D1-95E6-4839775097E5&apikey=0QfOX3Vn51YCzitbLaRkTTBadtWpgTN8NZLW0C1SEM&audienceMode=adult&caller=bgtask&cm=en-xl&column=c2&contentType=article,video,slideshow,webcontent&dhp=1&duotone=true&edgExpMask=262144&infopaneCount=17&it=app&memory=8&newsSkip=0&newsTop=48&ocid=anaheim-ntp-feeds&pgc=297&prerender=1&scn=APP_ANON&timeOut=2000&vpSize=910x429&wposchema=byregion HTTP/1.1
+Host: assets.msn.com
+Connection: keep-alive
+Accept: */*
+Access-Control-Request-Method: GET
+Access-Control-Request-Headers: onesvc-uni-feat-tun
+Origin: https://ntp.msn.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-site
+Sec-Fetch-Dest: empty
+Referer: https://ntp.msn.com/
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+

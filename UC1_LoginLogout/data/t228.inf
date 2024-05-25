@@ -1,0 +1,11 @@
+[t228]
+FileName1=t228_58914b9c7b8a02f7de4c68debdeeb989.json
+URL1=https://assets.msn.com/periconfigs/loc-configs/feedbacklinkwc/default/config_en.json/58914b9c7b8a02f7de4c68debdeeb989.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_228.xml
+RequestHeaderFile=t228_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t228_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,11 @@
+[t248]
+FileName1=t248_106cfbd1a22e9fdde395d990b7754c2e.json
+URL1=https://assets.msn.com/periconfigs/loc-configs/cardactionwc/default/config_en.json/106cfbd1a22e9fdde395d990b7754c2e.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_248.xml
+RequestHeaderFile=t248_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t248_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

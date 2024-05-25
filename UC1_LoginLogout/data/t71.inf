@@ -1,0 +1,11 @@
+[t71]
+FileName1=t71_3b178c67f28066d38c6b505be61f499a.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/telemetrydataedgechromium/default/index.json/3b178c67f28066d38c6b505be61f499a.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_71.xml
+RequestHeaderFile=t71_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t71_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

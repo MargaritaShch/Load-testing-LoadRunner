@@ -1,0 +1,11 @@
+[t68]
+FileName1=t68_6840e154100216e23cddf9f28cf93c10.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/experiencetrackeredgenextdata/default/config.json/6840e154100216e23cddf9f28cf93c10.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_68.xml
+RequestHeaderFile=t68_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t68_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

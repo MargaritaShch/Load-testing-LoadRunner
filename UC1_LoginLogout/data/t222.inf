@@ -1,0 +1,11 @@
+[t222]
+FileName1=t222_a6fea764b076506d478f089717172659.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/wafflewc/default/config.json/a6fea764b076506d478f089717172659.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_222.xml
+RequestHeaderFile=t222_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t222_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

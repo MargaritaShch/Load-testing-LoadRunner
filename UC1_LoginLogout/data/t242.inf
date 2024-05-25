@@ -1,0 +1,11 @@
+[t242]
+FileName1=t242_cae98b1aa99fa2fbf657fa6902a5510d.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/pillwc/default/config.json/cae98b1aa99fa2fbf657fa6902a5510d.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_242.xml
+RequestHeaderFile=t242_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t242_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

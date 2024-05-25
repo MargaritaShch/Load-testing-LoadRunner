@@ -1,0 +1,11 @@
+[t161]
+FileName1=t161_0783da5c8945c40583dda37cc6349b9e.json
+URL1=https://assets.msn.com/periconfigs/loc-configs/moneyinfo/default/index.json/0783da5c8945c40583dda37cc6349b9e.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_161.xml
+RequestHeaderFile=t161_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t161_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

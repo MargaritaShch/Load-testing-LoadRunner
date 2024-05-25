@@ -1,0 +1,11 @@
+[Network Analyzer (3fc4:2d04)] Address lookup for LAPTOP-UDHO2OV6 = 192.168.100.3
+[Network Analyzer (3fc4:2d04)] Request Connection: Remote Server @ 204.79.197.239:443   (Service=)  (Sid=114)  PROXIED!
+[Network Analyzer (3fc4:10c8)]   (Sid:114) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (3fc4:10c8)]   (Sid:114) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (3fc4:4128)]   (Sid:114) Client -> Server @ : 2896 bytes (SSL)(Service=HTTP)
+[Web Request      (3fc4:4128)] "POST /sync/v1/feeds/me/syncEntities/command/?client=Chromium&client_id=xoA3wCAk%2BKGKcH9sFEoxyQ%3D%3D"   
+[Network Analyzer (3fc4:4128)]   (Sid:114) Client -> Server @ : 319 bytes (SSL)(Service=HTTP)
+[Network Analyzer (3fc4:4128)]   (Sid:110) Connection Terminated (by Client)
+[Network Analyzer (3fc4:4128)]   (Sid:114) Server -> Client : 614 bytes (SSL) (Service=HTTP)
+[Network Analyzer (3fc4:4128)]   (Sid:114) Server -> Client : 172 bytes (SSL) (Service=HTTP)
+[Network Analyzer (3fc4:4128)]   (Sid:114) Server -> Client : 5 bytes (SSL) (Service=HTTP)

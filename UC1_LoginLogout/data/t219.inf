@@ -1,0 +1,11 @@
+[t219]
+FileName1=t219_39376f10c4b3f37b1a675da3d6e8c2a1.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/commonsettingsedgenext/default/config_prg-ncm.json/39376f10c4b3f37b1a675da3d6e8c2a1.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_219.xml
+RequestHeaderFile=t219_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t219_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

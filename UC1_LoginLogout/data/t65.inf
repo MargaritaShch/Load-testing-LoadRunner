@@ -1,0 +1,11 @@
+[t65]
+FileName1=t65_b8ddb9acdf272ee001af15810bad2427.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/chromiumpagesettings/default/config.json/b8ddb9acdf272ee001af15810bad2427.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_65.xml
+RequestHeaderFile=t65_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t65_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

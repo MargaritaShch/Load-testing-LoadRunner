@@ -1,0 +1,1 @@
+{"experienceType":"MsRewardsWC","description":"MsRewards config for edgeChromium","configs":[{"src":"config.json"},{"targetScope":{"audienceMode":"enterprise"},"src":"config_enterprise.json"}]}

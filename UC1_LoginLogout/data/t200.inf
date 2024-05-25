@@ -1,0 +1,11 @@
+[t200]
+FileName1=t200_c6e5a94ef3c26f2c1c765385bce9a26d.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/mobileappupsell/default/index.json/c6e5a94ef3c26f2c1c765385bce9a26d.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_200.xml
+RequestHeaderFile=t200_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t200_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

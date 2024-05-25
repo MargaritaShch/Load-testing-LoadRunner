@@ -1,0 +1,11 @@
+[t254]
+FileName1=t254_7e9289ff53373203953f2e827e0f33be.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/weathercarddata/default/index.json/7e9289ff53373203953f2e827e0f33be.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_254.xml
+RequestHeaderFile=t254_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t254_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

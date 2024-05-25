@@ -1,0 +1,11 @@
+[t215]
+FileName1=t215_fa446b4cbec3ebccd8611a45913f824e.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/commonsettingsedgenext/default/config.json/fa446b4cbec3ebccd8611a45913f824e.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_215.xml
+RequestHeaderFile=t215_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t215_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

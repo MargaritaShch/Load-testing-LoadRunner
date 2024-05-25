@@ -1,0 +1,11 @@
+[t79]
+FileName1=t79_96f798cc3620accf9dd987a2ef794581.json
+URL1=https://assets.msn.com/periconfigs/loc-configs/nurturingplacementmanager/default/index.json/96f798cc3620accf9dd987a2ef794581.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_79.xml
+RequestHeaderFile=t79_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t79_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

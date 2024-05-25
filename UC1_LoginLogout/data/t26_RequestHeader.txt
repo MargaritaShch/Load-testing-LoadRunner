@@ -1,0 +1,13 @@
+POST /api/shopping/v1/savings/rewards/rewardsUserInfo HTTP/1.1
+Host: www.bing.com
+Connection: keep-alive
+Content-Length: 43
+Content-Type: application/json
+X-Client-Data: eyIxIjoiMSIsIjEwIjoiXCJhazdIY1FwbmxabjhtOWFUeVJSK1RCbERzK051MGVBUHlQUEpsaEJnMy9nPVwiIiwiMiI6IjEiLCIzIjoiMCIsIjQiOiIzMzM3Mjg3NjA0ODc3Mjk4NjU3IiwiNSI6IlwiQ2t1QW1sUHhIejJDUmFJbkJWNmlhbTVVMmRSazdsREV6Z3RiK0I5TlVUOD1cIiIsIjYiOiJzdGFibGUiLCI3IjoiMjA0MDEwOTQ2NTYwMSIsIjkiOiJkZXNrdG9wIn0=
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: ru,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+

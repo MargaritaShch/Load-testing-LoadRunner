@@ -1,0 +1,11 @@
+[t234]
+FileName1=t234_b4e3788958986731ae696789bcbaa494.json
+URL1=https://assets.msn.com/periconfigs/loc-configs/msrewardswc/default/config_en.json/b4e3788958986731ae696789bcbaa494.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_234.xml
+RequestHeaderFile=t234_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t234_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

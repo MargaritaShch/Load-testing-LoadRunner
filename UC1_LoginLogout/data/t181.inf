@@ -1,0 +1,11 @@
+[t181]
+FileName1=t181_fe7c57a8ec107f79936a34360b467dbe.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/conditionalbannerwc/default/index.json/fe7c57a8ec107f79936a34360b467dbe.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_181.xml
+RequestHeaderFile=t181_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t181_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

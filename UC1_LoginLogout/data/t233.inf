@@ -1,0 +1,11 @@
+[t233]
+FileName1=t233_b1abf8801f5437fade9328e91e778794.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/msrewardswc/default/config.json/b1abf8801f5437fade9328e91e778794.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_233.xml
+RequestHeaderFile=t233_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t233_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

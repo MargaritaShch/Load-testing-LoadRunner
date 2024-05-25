@@ -1,0 +1,186 @@
+[API Trapper      (4928:3884)] Recording in 64-bit mode: C:\Users\naomi\AppData\Local\Google\Chrome\Application\chrome.exe
+[API Trapper      (2fcc: c20)] Recording in 64-bit mode: C:\Users\naomi\AppData\Local\Google\Chrome\Application\chrome.exe
+[API Trapper      (1b20:1ca8)] Recording in 64-bit mode: C:\Users\naomi\AppData\Local\Google\Chrome\Application\chrome.exe
+[Network Analyzer (1b20: 118)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1b20: 118)] Load Network Traffic Analyzers:
+[Network Analyzer (1b20: 118)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (1b20: 118)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (1b20: 118)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (1b20: 118)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (1b20: 118)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (1b20: 118)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (1b20: 118)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1b20: ab4)] Address lookup for LAPTOP-UDHO2OV6 = 192.168.100.3
+[Net An. Warning  (1b20: 118)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[API Trapper      (13f4:2f0c)] Recording in 64-bit mode: C:\Users\naomi\AppData\Local\Google\Chrome\Application\chrome.exe
+[Net An. Warning  (1b20: 118)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (1b20: 118)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (1b20: 118)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (1b20: 118)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (1b20: 118)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (1b20: 118)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (1b20: 118)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (1b20: 118)] Address lookup for LAPTOP-UDHO2OV6 = 192.168.100.3
+[Network Analyzer (1b20: 118)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (1b20: 118)] Address lookup for LAPTOP-UDHO2OV6 = 192.168.100.3
+[Network Analyzer (1b20: 118)] Request Connection: Remote Server @ 142.251.18.188:5228   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (1b20: 118)] Address lookup for LAPTOP-UDHO2OV6 = 192.168.100.3
+[Network Analyzer (1b20: 118)] Request Connection: Remote Server @ 142.251.141.35:443   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (1b20: 118)] Address lookup for LAPTOP-UDHO2OV6 = 192.168.100.3
+[Network Analyzer (1b20: 118)] Request Connection: Remote Server @ 142.251.141.35:443   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (1b20:1854)]   (Sid:  2) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1b20:2b00)]   (Sid:  3) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Error    (1b20:2b00)] SSLAccept(ssl_id = 2023593262736 = 000001D7278EBE90) Failed, ctx = 000001D7278AA550, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (1b20:2b00)]   (Sid:  3) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1b20: f90)]   (Sid:  4) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Error    (1b20: f90)] SSLAccept(ssl_id = 2023593340368 = 000001D7278FEDD0) Failed, ctx = 000001D7278AA550, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (1b20: f90)]   (Sid:  4) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1b20: ab4)]   (Sid:  3) Connection Terminated (by Client)
+[Network Analyzer (1b20: ab4)]   (Sid:  4) Connection Terminated (by Client)
+[Network Analyzer (1b20: ab4)]   (Sid:  1) Connection Terminated (by Client)
+[Network Analyzer (1b20: 118)] Address lookup for LAPTOP-UDHO2OV6 = 192.168.100.3
+[Network Analyzer (1b20: 118)] Request Connection: Remote Server @ 142.251.141.35:443   (Service=)  (Sid=  5)  PROXIED!
+[Net An. Error    (1b20:1854)] SSLAccept(ssl_id = 2023593038784 = 000001D7278B53C0) Failed, ctx = 000001D7278AA550, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (1b20:1854)]   (Sid:  2) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1b20: 118)] Address lookup for LAPTOP-UDHO2OV6 = 192.168.100.3
+[Network Analyzer (1b20: 118)] Request Connection: Remote Server @ 142.251.31.84:443   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (1b20:4d60)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1b20:3b1c)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1b20: ab4)]   (Sid:  2) Connection Terminated (by Client)
+[Net An. Warning  (1b20: 118)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (1b20: 118)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (1b20: 118)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (1b20: 118)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (1b20: 118)] Address lookup for LAPTOP-UDHO2OV6 = 192.168.100.3
+[Network Analyzer (1b20: 118)] Request Connection: Remote Server @ 216.58.212.42:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (1b20: 118)] Address lookup for LAPTOP-UDHO2OV6 = 192.168.100.3
+[Network Analyzer (1b20: 118)] Request Connection: Remote Server @ 172.217.17.138:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (1b20: 118)] Address lookup for LAPTOP-UDHO2OV6 = 192.168.100.3
+[Network Analyzer (1b20: 118)] Request Connection: Remote Server @ 142.250.184.131:443   (Service=)  (Sid=  9)  PROXIED!
+[Net An. Error    (1b20:4d60)] SSLAccept(ssl_id = 2023593351408 = 000001D7279018F0) Failed, ctx = 000001D7278AA550, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (1b20:3b1c)] SSLAccept(ssl_id = 2023592759600 = 000001D727871130) Failed, ctx = 000001D7278AA550, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (1b20:4d60)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (1b20:3b1c)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1b20:1de8)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1b20:1de8)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1b20:10ec)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1b20: 654)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1b20: ab4)]   (Sid:  5) Connection Terminated (by Client)
+[Network Analyzer (1b20: ab4)]   (Sid:  6) Connection Terminated (by Client)
+[Net An. Warning  (1b20: 118)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (1b20: 118)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (1b20: 118)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (1b20: 118)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (1b20: 118)] Address lookup for LAPTOP-UDHO2OV6 = 192.168.100.3
+[Network Analyzer (1b20: 118)] Request Connection: Remote Server @ 142.251.31.84:443   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (1b20: 118)] Address lookup for LAPTOP-UDHO2OV6 = 192.168.100.3
+[Network Analyzer (1b20: 118)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer (1b20:10ec)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1b20: 654)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1b20:1c84)]   (Sid: 10) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Error    (1b20:1c84)] SSLAccept(ssl_id = 2023592999072 = 000001D7278AB8A0) Failed, ctx = 000001D7278AA550, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (1b20:1c84)]   (Sid: 10) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1b20: 118)] Address lookup for LAPTOP-UDHO2OV6 = 192.168.100.3
+[Web Request      (1b20: ab4)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer (1b20: ab4)]   (Sid: 11) Client -> Server @ : 741 bytes (Service=HTTP)
+[Network Analyzer (1b20: 118)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer (1b20: ab4)]   (Sid: 11) Server -> Client : 1021 bytes  (Service=HTTP)
+[Network Analyzer (1b20: ab4)]   (Sid: 11) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (1b20: ab4)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (1b20: ab4)]   (Sid: 11) Client -> Server @ : 782 bytes (Service=HTTP)
+[Network Analyzer (1b20: ab4)]   (Sid: 11) Server -> Client : 1752 bytes  (Service=HTTP)
+[Network Analyzer (1b20: ab4)]   (Sid: 11) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (1b20: ab4)] "GET /favicon.ico"   
+[Network Analyzer (1b20: ab4)]   (Sid: 11) Client -> Server @ : 647 bytes (Service=HTTP)
+[Network Analyzer (1b20: ab4)]   (Sid: 11) Server -> Client : 424 bytes  (Service=HTTP)
+[Network Analyzer (1b20: ab4)]   (Sid: 10) Connection Terminated (by Client)
+[API Trapper      (346c:4f34)] Recording in 64-bit mode: C:\Users\naomi\AppData\Local\Google\Chrome\Application\chrome.exe
+[API Trapper      ( 44c:10f4)] Recording in 64-bit mode: C:\Users\naomi\AppData\Local\Google\Chrome\Application\chrome.exe
+[Web Request      (1b20: ab4)] "POST /cgi-bin/login.pl"   
+[Network Analyzer (1b20: ab4)]   (Sid: 11) Client -> Server @ : 1037 bytes (Service=HTTP)
+[Network Analyzer (1b20: ab4)]   (Sid: 11) Server -> Client : 846 bytes  (Service=HTTP)
+[Network Analyzer (1b20: ab4)]   (Sid: 11) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (1b20: ab4)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer (1b20: ab4)]   (Sid: 11) Client -> Server @ : 907 bytes (Service=HTTP)
+[Web Request      (1b20: ab4)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer (1b20: ab4)]   (Sid: 12) Client -> Server @ : 902 bytes (Service=HTTP)
+[Network Analyzer (1b20: ab4)]   (Sid: 12) Server -> Client : 1154 bytes  (Service=HTTP)
+[Network Analyzer (1b20: ab4)]   (Sid: 12) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (1b20: ab4)]   (Sid: 11) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (1b20: ab4)]   (Sid: 11) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (1b20: 118)] Address lookup for LAPTOP-UDHO2OV6 = 192.168.100.3
+[Network Analyzer (1b20: 118)] Request Connection: Remote Server @ 172.217.20.74:443   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer (1b20: 118)] Address lookup for LAPTOP-UDHO2OV6 = 192.168.100.3
+[Network Analyzer (1b20: 118)] Request Connection: Remote Server @ 142.251.31.84:443   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer (1b20:3b24)]   (Sid: 13) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1b20:3b24)]   (Sid: 13) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1b20:3424)]   (Sid: 14) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Error    (1b20:3424)] SSLAccept(ssl_id = 2023532560768 = 000001D723F08180) Failed, ctx = 000001D7278AA550, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (1b20:3424)]   (Sid: 14) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1b20: ab4)]   (Sid: 14) Connection Terminated (by Client)
+[Web Request      (1b20: ab4)] "GET /cgi-bin/welcome.pl?page=itinerary"   
+[Network Analyzer (1b20: ab4)]   (Sid: 11) Client -> Server @ : 924 bytes (Service=HTTP)
+[Network Analyzer (1b20: ab4)]   (Sid: 11) Server -> Client : 813 bytes  (Service=HTTP)
+[Network Analyzer (1b20: ab4)]   (Sid: 11) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (1b20: ab4)] "GET /cgi-bin/nav.pl?page=menu&in=itinerary"   
+[Network Analyzer (1b20: ab4)]   (Sid: 11) Client -> Server @ : 929 bytes (Service=HTTP)
+[Web Request      (1b20: ab4)] "GET /cgi-bin/itinerary.pl"   
+[Network Analyzer (1b20: ab4)]   (Sid: 12) Client -> Server @ : 912 bytes (Service=HTTP)
+[Network Analyzer (1b20: ab4)]   (Sid: 12) Server -> Client : 4234 bytes  (Service=HTTP)
+[Network Analyzer (1b20: ab4)]   (Sid: 12) Server -> Client : 898 bytes  (Service=HTTP)
+[Network Analyzer (1b20: ab4)]   (Sid: 11) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (1b20: ab4)]   (Sid: 11) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (1b20: ab4)]   (Sid: 12) Connection Terminated (by Server)
+[Network Analyzer (1b20: ab4)]   (Sid: 11) Connection Terminated (by Server)
+[Network Analyzer (1b20: 118)] Address lookup for LAPTOP-UDHO2OV6 = 192.168.100.3
+[Network Analyzer (1b20: 118)] Request Connection: Remote Server @ 142.251.31.84:443   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer (1b20: 118)] Address lookup for LAPTOP-UDHO2OV6 = 192.168.100.3
+[Network Analyzer (1b20: 118)] Request Connection: Remote Server @ 142.251.18.188:443   (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer (1b20:4b10)]   (Sid: 15) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Error    (1b20:4b10)] SSLAccept(ssl_id = 2023593725200 = 000001D72795CD10) Failed, ctx = 000001D7278AA550, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (1b20:4b10)]   (Sid: 15) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (1b20:3f74)]   (Sid: 16) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (1b20: ab4)]   (Sid: 15) Connection Terminated (by Client)
+[Net An. Warning  (1b20: 118)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (1b20: 118)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (1b20: 118)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (1b20: 118)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (1b20:3f74)]   (Sid: 16) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (1b20: ab4)]   (Sid: 16) Client -> Server @ : 192 bytes (SSL)
+[Network Analyzer (1b20: ab4)]   (Sid: 16) Server -> Client : 1 bytes (SSL)
+[Network Analyzer (1b20: ab4)]   (Sid: 16) Server -> Client : 67 bytes (SSL)
+[Network Analyzer (1b20: ab4)]   (Sid: 16) Server -> Client : 12 bytes (SSL)
+[Net An. Warning  (1b20: 118)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (1b20: 118)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (1b20: 118)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (1b20: 118)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (1b20: 118)] Address lookup for LAPTOP-UDHO2OV6 = 192.168.100.3
+[Network Analyzer (1b20: 118)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer (1b20: 118)] Address lookup for LAPTOP-UDHO2OV6 = 192.168.100.3
+[Web Request      (1b20: ab4)] "POST /cgi-bin/itinerary.pl"   
+[Network Analyzer (1b20: ab4)]   (Sid: 17) Client -> Server @ : 1176 bytes (Service=HTTP)
+[Network Analyzer (1b20: 118)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer (1b20: ab4)]   (Sid: 17) Server -> Client : 4024 bytes  (Service=HTTP)
+[Network Analyzer (1b20: ab4)]   (Sid: 17) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (1b20: ab4)] "GET /cgi-bin/welcome.pl?signOff=1"   
+[Network Analyzer (1b20: ab4)]   (Sid: 17) Client -> Server @ : 924 bytes (Service=HTTP)
+[Network Analyzer (1b20: ab4)]   (Sid: 17) Server -> Client : 1020 bytes  (Service=HTTP)
+[Network Analyzer (1b20: ab4)]   (Sid: 17) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (1b20: ab4)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (1b20: ab4)]   (Sid: 17) Client -> Server @ : 799 bytes (Service=HTTP)
+[Network Analyzer (1b20: ab4)]   (Sid: 17) Server -> Client : 1751 bytes  (Service=HTTP)
+[Network Analyzer (1b20: ab4)]   (Sid: 17) Server -> Client : 5 bytes  (Service=HTTP)

@@ -1,0 +1,11 @@
+[t178]
+FileName1=t178.json
+URL1=https://assets.msn.com/content/view/v1/Preview/BBV2H8k/
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_178.xml
+RequestHeaderFile=t178_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t178_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

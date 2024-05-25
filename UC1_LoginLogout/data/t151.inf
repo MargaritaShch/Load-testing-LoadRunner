@@ -1,0 +1,11 @@
+[t151]
+FileName1=t151.json
+URL1=https://assets.msn.com/content/view/v1/Preview/BBUT8Gt/
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_151.xml
+RequestHeaderFile=t151_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t151_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

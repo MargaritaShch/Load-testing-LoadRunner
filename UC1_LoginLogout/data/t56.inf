@@ -1,0 +1,11 @@
+[t56]
+FileName1=t56_b81a4920890a57c52342e3f44f9736a7.json
+URL1=https://assets.msn.com/periconfigs/feature-configs/edgechromiumpagewc/default/config_en.json/b81a4920890a57c52342e3f44f9736a7.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_56.xml
+RequestHeaderFile=t56_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t56_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

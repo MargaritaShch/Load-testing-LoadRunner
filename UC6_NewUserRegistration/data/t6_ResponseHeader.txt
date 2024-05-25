@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Content-Type: text/plain; charset=UTF-8
+Content-Encoding: gzip
+Date: Sun, 14 Apr 2024 11:33:01 GMT
+Server: scaffolding on HTTPServer2
+Cache-Control: private
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Transfer-Encoding: chunked
+
