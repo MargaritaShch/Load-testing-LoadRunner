@@ -1,21 +1,21 @@
-# Проект написания скриптов в LoadRunner
+# Project for Writing Scripts in LoadRunner
 
-## Обзор проекта
+## Project Overview
 
-Этот проект включает разработку скриптов LoadRunner для имитации сценариев виртуальных пользователей в приложении для бронирования билетов. Основные цели - создать скрипты для различных пользовательских действий, реализовать транзакции, проверки, корреляцию и параметризацию, а также убедиться, что скрипты правильно структурированы и функциональны.
+This project involves the development of LoadRunner scripts to simulate virtual user scenarios in a ticket booking application. The primary goals are to create scripts for various user actions, implement transactions, checks, correlation, and parameterization, as well as ensure that the scripts are properly structured and functional.
 
-## Реализованные сценарии
+## Implemented Scenarios
 
-1. **Сценарий 1: Логин и логаут**
-2. **Сценарий 2: Поиск билета без покупки**
-3. **Сценарий 3: Покупка билета**
-4. **Сценарий 4: Просмотр списка путевых листов**
-5. **Сценарий 5: Удаление существующего бронирования**
-6. **Сценарий 6: Регистрация нового пользователя**
+Scenario 1: Login and Logout**
+Scenario 2: Search for a Ticket without Purchase**
+Scenario 3: Purchase a Ticket**
+Scenario 4: View List of Travel Itineraries**
+Scenario 5: Delete an Existing Booking**
+Scenario 6: Register a New User**
 
-## Основные функции
+## Key Features
 
-- **Управление транзакциями**: Транзакции установлены для всех запросов и бизнес-операций для точного измерения производительности.
-- **Валидация**: Проверки реализованы для каждой транзакции, чтобы гарантировать корректность запросов.
-- **Корреляция и параметризация**: Динамические значения, такие как идентификаторы сеансов и рейсов, коррелированы, а пользовательские вводимые значения параметризованы.
-- **Подготовка данных пользователей**: Данные для 10 различных учетных записей пользователей подготовлены и сохранены в файле, обеспечивая уникальные сеансы для тестирования.
+- **Transaction Management**: Transactions are set for all requests and business operations to accurately measure performance.
+- **Validation**: Checks are implemented for each transaction to ensure the correctness of requests.
+- **Correlation and Parameterization**: Dynamic values such as session and flight IDs are correlated, and user input values are parameterized.
+- **User Data Preparation**: Data for 10 different user accounts is prepared and stored in a file, ensuring unique sessions for testing..
